@@ -7,13 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ping') {
-    	message.channel.sendMessage('__Kurallar__
-1- Küfür, hakaret, argo gibi kelimeler dozunda kullanılmalıdır. (Eğer bir şahısa hakaret edip ve kendiside bu durumdan rahatsız oluyorsa ceza alabilirsiniz.)
-2- Her kişiye saygı gösterin saygısızlık yapmayınız.
-3- Spam yapmayınız.
-4- Kimsenin başka bir kimseden üstünlük gösterilmemesi gerekir.
-5- Başkalarını rahatsız etmeyiniz.
-6- Odalarda bağırmayınız.');
+    	message.channel.sendMessage('Kurallar asdasdsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd');
   	}
 });
 
