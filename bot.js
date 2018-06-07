@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'xDDDbotuyazdirmakomutuamacokhavalibirsekilde') {
+    if (message.content === 'asdkgfasfkasfewtgesjgmses') {
     	message.reply('__**Kurallar**__
 **1-** Küfür, hakaret, argo gibi kelimeler dozunda kullanılmalıdır. (Eğer bir şahısa hakaret edip ve kendiside bu durumdan rahatsız oluyorsa ceza alabilirsiniz.)
 **2-** Her kişiye saygı gösterin saygısızlık yapmayınız.
