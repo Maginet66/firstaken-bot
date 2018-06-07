@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
+    if (message.content === 'gizlikomudxd') {
     	message.channel.sendMessage('Kurallar');
         message.channel.sendMessage('1- Küfür, hakaret, argo gibi kelimeler dozunda kullanılmalıdır. (Eğer bir şahısa hakaret edip ve kendiside bu durumdan rahatsız oluyorsa ceza alabilirsiniz.)');
         message.channel.sendMessage('2- Her kişiye saygı gösterin saygısızlık yapmayınız.');
