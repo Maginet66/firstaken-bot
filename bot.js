@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (msg.channel.sendMessage === 'asdkgfasfkasfewtgesjgmses') {
+    if (msg.SendMessage === 'asdkgfasfkasfewtgesjgmses') {
     	message.reply('asdasd');
   	}
 });
