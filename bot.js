@@ -7,7 +7,8 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ping') {
-    	message.channel.sendMessage('Kurallar asdasdsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd');
+    	message.channel.sendMessage('Kurallar');
+        message.channel.sendMessage('Kasdsadsadr');
   	}
 });
 
